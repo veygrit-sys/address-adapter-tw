@@ -1,0 +1,12 @@
+{
+  "name": "@veygrit/address-adapter-tw",
+  "version": "0.1.0",
+  "description": "Candidate-only Taiwan postal address response adapter.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "exports": "./src/index.js",
+  "files": ["src", "README.md", "SOURCES.md", "LICENSE"],
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=20" },
+  "keywords": ["address", "taiwan", "postal-code", "chunghwa-post", "candidate"]
+}
